@@ -1,17 +1,4 @@
-## Hi there 👋
-
-<!--
-**mo2ziiy/mo2ziiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...# 💫 About Me:
+# 💫 About Me:
 Hi! I'm Mohamed Saleh, a 19-year-old student from Egypt, currently studying Artificial Intelligence at Horus University, with a specialization in Cybersecurity (SOC).<br><br>I have a strong interest in Security Operations, threat analysis, and understanding how systems can be protected against modern cyber attacks. Alongside my cybersecurity studies, I have hands-on experience in software development and enjoy building and analyzing systems from both a developer’s and a defender’s perspective.<br><br>💡 Technical Skills:-<br>- Programming Languages: Python, C++<br>- Frontend Development: HTML, CSS, JavaScript<br>- Core Areas: Cybersecurity, SOC concepts, Software Development<br>- Interests: Blue Teaming, Security Monitoring, System Analysis, and Problem Solving<br><br>I’m always eager to learn new technologies, improve my skills, and work on real-world projects that combine security and development. I believe that understanding how software is built is a key part of securing it effectively.<br><br>📌 Currently learning, building, and growing step by step in the cybersecurity field.
 
 
@@ -32,5 +19,3 @@ Hi! I'm Mohamed Saleh, a 19-year-old student from Egypt, currently studying Arti
 [![](https://visitcount.itsvg.in/api?id=mo2ziiy&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- ⚡ Fun fact: ...
--->
