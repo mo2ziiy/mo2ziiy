@@ -1,5 +1,22 @@
 # 💫 About Me:
-Hi! I'm Mohamed Saleh, a 19-year-old student from Egypt, currently studying Artificial Intelligence at Horus University, with a specialization in Cybersecurity (SOC) operation.<br><br>I have a strong interest in Security Operations, threat analysis, and understanding how systems can be protected against modern cyber attacks. Alongside my cybersecurity studies, I have hands-on experience in software development and enjoy building and analyzing systems from both a developer’s and a defender’s perspective.<br><br>💡 Technical Skills:-<br>- Programming Languages: Python, C++, Java<br>- Frontend Development: HTML/CSS, JavaScript, TypeScript, React.js<br>- Core Areas: Cybersecurity, SOC concepts, Software Development<br>- Interests: Blue Teaming, Security Monitoring, System Analysis, and Problem Solving<br><br>I’m always eager to learn new technologies, improve my skills, and work on real-world projects that combine security and development. I believe that understanding how software is built is a key part of securing it effectively.<br><br>📌 Currently learning, building, and growing step by step in the cybersecurity field.
+Hi 👋 I'm Mohamed Saleh, a 19-year-old student from Egypt 🇪🇬, currently studying Artificial Intelligence at Horus University, specializing in Cybersecurity (SOC Operations).
+
+I have a strong interest in Security Operations, threat analysis, and understanding how systems can be protected against modern cyber attacks. Alongside my cybersecurity studies, I have hands-on experience in software development, and I enjoy building and analyzing systems from both a developer’s and a defender’s perspective.
+
+---
+
+💡 Technical Skills:
+
+- Programming Languages: Python, C++, Java  
+- Frontend Development: HTML, CSS, JavaScript, TypeScript, React.js  
+- Core Areas: Cybersecurity, SOC Concepts, Software Development  
+- Interests: Blue Teaming, Security Monitoring, System Analysis, Problem Solving  
+
+---
+
+🚀 I’m always eager to learn new technologies, improve my skills, and work on real-world projects that combine security and development.
+
+✨ I believe that understanding how software is built is a key part of securing it effectively.ring it effectively.<br><br>📌 Currently learning, building, and growing step by step in the cybersecurity field.
 
 
 ## 🌐 Socials:
