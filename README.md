@@ -16,7 +16,7 @@ I have a strong interest in Security Operations, threat analysis, and understand
 
 🚀 I’m always eager to learn new technologies, improve my skills, and work on real-world projects that combine security and development.
 
-✨ I believe that understanding how software is built is a key part of securing it effectively.ring it effectively.<br><br>📌 Currently learning, building, and growing step by step in the cybersecurity field.
+✨ I believe that understanding how software is built is a key part of securing it effectively.ring it effectively.
 
 
 ## 🌐 Socials:
