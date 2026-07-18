@@ -3,7 +3,7 @@
 # Hi 👋, I'm Mohamed Saleh
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=900&color=7B68EE&center=true&vCenter=true&repeat=true&width=750&height=60&lines=Cybersecurity+%26+AI+Student;Aspiring+SOC+Analyst;Blue+Team+%26+Threat+Detection;Incident+Response+%26+DFIR;Front-End+Developer"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=900&color=7B68EE&center=true&vCenter=true&repeat=true&width=750&height=60&lines=Cybersecurity+%26+AI+Student;Aspiring+SOC+Analyst;Blue+Team+%26+Threat+Detection;Incident+Response+%26+DFIR;Digital+Forensics;Front-End+Developer"
   alt="Typing Animation"
 />
 
@@ -24,21 +24,20 @@ I'm **Mohamed Saleh**, a 20-year-old Cybersecurity and Artificial Intelligence s
 
 I study at **Horus University — Faculty of Artificial Intelligence**, specializing in **Cybersecurity**.
 
-My main interests are **Security Operations Center operations, Blue Teaming, threat detection, incident response, log analysis, network monitoring, and Digital Forensics & Incident Response**.
+My main interests are **Security Operations Center operations, Blue Teaming, threat detection, incident response, log analysis, network monitoring, Digital Forensics and DFIR**.
 
 Alongside cybersecurity, I have experience in software and front-end development. This allows me to understand systems from both a developer's perspective and a defender's perspective.
 
-- 🎓 Cybersecurity & AI Student at Horus University
 - 🛡️ Aspiring SOC Analyst and Blue Team professional
 - 🔍 Interested in Threat Detection, Incident Response and DFIR
+- 🔎 Interested in Digital Forensics and system investigation
 - 💻 Front-End Developer using React and TypeScript
 - 🤖 Interested in AI-powered security solutions
 - 🌱 Continuously learning and building real-world projects
-- 🤝 Open to internships, collaboration and cybersecurity opportunities
 
 ---
 
-# 🛡️ Cybersecurity Focus
+# 🛡️ Cybersecurity
 
 <div align="center">
 
@@ -47,6 +46,7 @@ Alongside cybersecurity, I have experience in software and front-end development
 ![Threat Detection](https://img.shields.io/badge/Threat_Detection-6F42C1?style=for-the-badge&logo=target&logoColor=white)
 ![Incident Response](https://img.shields.io/badge/Incident_Response-D14836?style=for-the-badge&logo=firefoxbrowser&logoColor=white)
 ![DFIR](https://img.shields.io/badge/DFIR-111827?style=for-the-badge&logo=files&logoColor=7B68EE)
+![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-4B0082?style=for-the-badge&logo=searchengin&logoColor=white)
 ![Network Security](https://img.shields.io/badge/Network_Security-00599C?style=for-the-badge&logo=cisco&logoColor=white)
 
 </div>
@@ -63,27 +63,11 @@ Alongside cybersecurity, I have experience in software and front-end development
 
 </div>
 
-## Front-End Development
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,nodejs,express&perline=6" alt="Front-End Technologies"/>
-
-</div>
-
 ## Cybersecurity & Systems
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=kali,linux,bash,windows,powershell&perline=5" alt="Cybersecurity and Systems"/>
-
-</div>
-
-## Databases
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&perline=3" alt="Databases"/>
 
 </div>
 
@@ -112,29 +96,7 @@ Alongside cybersecurity, I have experience in software and front-end development
 
 ---
 
-# 🚀 Featured Projects
-
-## 🛡️ ShieldScan
-
-A cybersecurity learning and analysis platform inspired by modern malware and URL scanning services.
-
-- URL and file scanning
-- Image steganography analysis
-- Source code scanning
-- AI Security Assistant
-- Cybersecurity labs and resources
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mo2ziiy/ShieldScan)
-
-## 🧠 BrainFuel
-
-A student innovation platform designed to support collaboration, ideas and entrepreneurship.
-
-- React
-- TypeScript
-- Vite
-- Tailwind CSS
-- Framer Motion
+# 🚀 Featured Project
 
 ## 🤖 Android Malware Detection
 
@@ -143,6 +105,9 @@ An AI-powered malware detection project that classifies Android applications as 
 - Python
 - XGBoost
 - Random Forest
+- Logistic Regression
+- Decision Tree
+- KNN
 - Data preprocessing
 - Model evaluation
 - Streamlit interface
@@ -210,11 +175,11 @@ An AI-powered malware detection project that classifies Android applications as 
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/mohamed-saleh-a31038376/">
+<a href="https://www.linkedin.com/in/mohamed-saleh-a31038376">
   <img src="https://img.shields.io/badge/LinkedIn-Mohamed_Saleh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="https://mo2ziiiy.netlify.app">
+<a href="https://mo2ziiy.github.io/mo2ziiiy/">
   <img src="https://img.shields.io/badge/Portfolio-Visit_Website-7B68EE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
@@ -228,10 +193,6 @@ An AI-powered malware detection project that classifies Android applications as 
 
 <a href="https://www.instagram.com/muhammedls7_/">
   <img src="https://img.shields.io/badge/Instagram-muhammedls7_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
-<a href="https://www.reddit.com/user/mo2ziiy/">
-  <img src="https://img.shields.io/badge/Reddit-mo2ziiy-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
 </a>
 
 </div>
